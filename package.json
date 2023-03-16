@@ -1,0 +1,15 @@
+{
+    "author":"Vamsi Saripudi",
+    "name":"censorify751427",
+    "version":"0.0.2",
+    "main":"censortext",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/vamsi751427/censorify751427"
+    },
+    "dependencies": {},
+    "keywords": ["censor","text censor"],
+    "engines":{
+        "node":"*"
+    }
+}
